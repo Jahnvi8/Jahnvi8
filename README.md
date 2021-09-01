@@ -1,6 +1,23 @@
 <h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<br/>
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+</a>
 
-### :smiley_cat: I am a student 
+- 🔭 I’m currently working on **Web Development**
+- 🌱 I’m currently learning **React and Competitive Programming**
+- 👯 I’m looking to collaborate on **Web Development**
+- 🤔 I’m looking for with **Internships**
+</br>
+</br>
+<p align="center" >  
+  <img src="https://komarev.com/ghpvc/?username=Jahnvi8" alt="janvi" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Jahnvi8?label=Followers&style=social"> 
+  <img src="https://img.shields.io/github/stars/Jahnvi8?label=Stars" alt="Total Stars">
+</p>
+
+<br/>
+<br/>
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -10,14 +27,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jahnvi8&theme=tokyonight" alt="mystreak"/>
 ![Jahnvi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnvi8&theme=tokyonight&layout=compact)
 
-<p align="center" >  
-  <img src="https://komarev.com/ghpvc/?username=Jahnvi8" alt="janvi" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Jahnvi8?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/Jahnvi8?label=Stars" alt="Total Stars">
-</p>
-
-
-🌱 I’m currently learning React with Backend Integration
 
 #
 
@@ -52,10 +61,14 @@
 
 <br/>
 
-#
-
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+##  💹 Contribution Graph
+
+<a href="https://github.com/Jahnvi8"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jahnvi8&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<Br>
+
+
+
 
 ## Contact me : 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jahnvi-gupta-339413192/
