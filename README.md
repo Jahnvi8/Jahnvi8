@@ -17,10 +17,11 @@
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-janvi.2678@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:janvi.2678@gmail.com)](janvi.2678@gmail.com)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[linkedin]: https://www.linkedin.com/in/jahnvi-gupta-339413192/
+
 
 
 ------
 Credit: [Jahnvi](https://github.com/Jahnvi8)
 
 Last Edited on: 21/08/2021
+[linkedin]: https://www.linkedin.com/in/jahnvi-gupta-339413192/
