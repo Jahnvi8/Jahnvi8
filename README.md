@@ -30,7 +30,7 @@
 
 #
 
-<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<a target="_blank"><img align="left" height="350" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
 
 
@@ -45,20 +45,16 @@
 <code><img height="50" width="60" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
 <code><img height="50" width="60" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="50" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
 <br/>
 <br/>
-
 <code><img height="50" width="60" src="https://seeklogo.com/images/N/node-node-js-logo-81A4CC16D2-seeklogo.com.png"></code>
 <code><img height="50" width="60" src="https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png"></code>
 <code><img height="50" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="50" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></code>
 <code><img height="50" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-
 <br/>
 <br/>
-
 <code><img height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></code>
 <code><img height="50" width="60" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"></code>
 <code><img height="50" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
