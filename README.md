@@ -51,7 +51,7 @@
 <code><img height="60" width="60" src="https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png"></code>
 <code><img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></code>
+<!-- <code><img height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></code> -->
 <br/>
 <br/>
 <code><img height="60" width="60" src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png"></code>
@@ -65,7 +65,7 @@
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <code><img height="60" width="60" src="https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png"></code>
 <code><img height="60" width="60" src="https://seeklogo.com/images/N/npm-node-package-manager-logo-DE93649ED1-seeklogo.com.png"></code>
-<code><img height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
+<!-- <code><img height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code> -->
 
 <!-- <code><img height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code> -->
 
