@@ -4,10 +4,10 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-- 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **React and Competitive Programming**
-- 👯 I’m looking to collaborate on **Web Development**
-- 🤔 I’m looking for with **Internships**
+- 🔭 I’m currently working on **Full Stack Development**
+- 🌱 I’m currently learning **MERN**
+- 👯 I’m looking for opportunity on **Software Development**
+- 🤔 Open to work
 </br>
 </br>
 <p align="center" >  
