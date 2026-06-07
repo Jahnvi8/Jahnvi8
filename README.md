@@ -5,7 +5,7 @@
 </a>
 
 - Hey there, I’m currently working on **Full Stack Development** with **MERN**
-   and open to work
+ </br>  and open to work
 - Profeciency in Anugular and 2yrs experience as **Software Development**
 
 </br>
