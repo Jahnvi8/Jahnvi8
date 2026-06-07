@@ -4,7 +4,8 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-- Hey there, I’m currently working on **Full Stack Development** with **MERN** and open to work
+- Hey there, I’m currently working on **Full Stack Development** with **MERN**
+   and open to work
 - Profeciency in Anugular and 2yrs experience as **Software Development**
 
 </br>
