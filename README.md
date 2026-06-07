@@ -4,10 +4,9 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-- 🔭 I’m currently working on **Full Stack Development**
-- 🌱 I’m currently learning **MERN**
-- 👯 I’m looking for opportunity on **Software Development**
-- 🤔 Open to work
+- Hey there, I’m currently working on **Full Stack Development** with **MERN** and open to work
+- Profeciency in Anugular and 2yrs experience as **Software Development**
+
 </br>
 </br>
 <p align="center" >  
