@@ -6,7 +6,8 @@
 
 - Hey there, I’m currently working on **Full Stack Development** with **MERN**
  </br>  and open to work
-- Profeciency in Anugular and 2yrs experience as **Software Development**
+- Profeciency in Angular
+- 2yrs+ experience as **Software Developer**
 
 </br>
 </br>
