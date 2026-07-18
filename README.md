@@ -79,7 +79,7 @@
 
 
 ## Contact me : 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jahnvi-gupta-339413192/
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jahnvi--
 )
     <a href="mailto:janvi.2678@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/janvi.2678@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/tavshvi)
