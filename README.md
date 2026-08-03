@@ -71,12 +71,14 @@ Case-study write-ups rather than a card grid. Built on semantic CSS custom prope
 
 ## 📊 GitHub
 
-<!-- Cards themed to match the portfolio palette (brass on warm off-black)
-     rather than a stock theme, so they don't clash with everything above. -->
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Jahnvi8&show_icons=true&hide_border=true&bg_color=0C0B0A&title_color=C9A227&icon_color=C9A227&text_color=A39887" alt="Jahnvi's GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnvi8&layout=compact&hide_border=true&bg_color=0C0B0A&title_color=C9A227&text_color=A39887" alt="Most used languages" />
-</p>
+<!-- shields.io, not github-readme-stats.vercel.app. That public instance is a
+     shared free deployment and is currently returning 503 DEPLOYMENT_PAUSED
+     for every user, which renders as a broken image on the profile. To get
+     the full stats cards back reliably, self-host github-readme-stats on your
+     own Vercel account and point these at that deployment. -->
+
+[![Followers](https://img.shields.io/github/followers/Jahnvi8?label=Followers&style=flat-square&color=C9A227&logo=github)](https://github.com/Jahnvi8?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Jahnvi8?label=Stars&style=flat-square&color=C9A227&logo=github)](https://github.com/Jahnvi8?tab=repositories)
 
 ---
 
