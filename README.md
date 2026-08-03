@@ -6,8 +6,7 @@ Strongest on the frontend, where I turn complex interactions into smooth, intuit
 
 4+ years shipping enterprise platforms.
 </br>
-Currently exploring AI-powered applications (RAG, LLM integration) and backend system design with Python.
----
+
 
 ## 🛠 Tech Stack
 
