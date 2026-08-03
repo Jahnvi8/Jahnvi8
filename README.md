@@ -1,4 +1,4 @@
-# Hi, I'm Jahnvi Gupta 👋
+# Hi, I'm Jahnvi 👋
 
 **Full-stack engineer with a frontend core** — building production web apps end-to-end.
 </br>
