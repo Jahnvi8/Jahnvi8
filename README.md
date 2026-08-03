@@ -1,9 +1,12 @@
 # Hi, I'm Jahnvi Gupta 👋
 
-**Full-stack engineer with a frontend core** — building production web apps end-to-end. Strongest on the frontend, where I turn complex interactions into smooth, intuitive interfaces; comfortable across the stack shaping the APIs and data models that power them.
+**Full-stack engineer with a frontend core** — building production web apps end-to-end.
+</br>
+Strongest on the frontend, where I turn complex interactions into smooth, intuitive interfaces; comfortable across the stack shaping the APIs and data models that power them.
 
-4+ years shipping enterprise platforms to clients including **Amazon, JP Morgan, Goldman Sachs and Deloitte**.
-
+4+ years shipping enterprise platforms.
+</br>
+Currently exploring AI-powered applications (RAG, LLM integration) and backend system design with Python.
 ---
 
 ## 🛠 Tech Stack
@@ -48,35 +51,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-### [DocSaathi](https://github.com/Jahnvi8/DocSaathi) — Multilingual AI Document Chat
-
-Ask questions of your documents in **English, हिंदी or Hinglish**, including by voice, and get answers that cite the page they came from.
-
-- **Hybrid retrieval** — vector search + BM25 together, 12 candidates narrowed to top 4
-- **Evaluation harness** — ablation study scoring four retrieval configs on context recall, context precision, faithfulness and answer relevance
-- **Token streaming over SSE** with grounded citations back to source pages
-- Hindi voice input via the Web Speech API
-
-`React` `TypeScript` `Node/Express` `Gemini` `RAG` `SSE`
-
----
-
-### [SocialSync AI](https://github.com/Jahnvi8/SocialSync) — Social Media Automation
-
-[**Live demo →**](https://social-sync-orpin.vercel.app/)
-
-Manage multiple social accounts from one dashboard, generate posts with AI, and cross-post on a schedule.
-
-- Cron-based background worker publishing to LinkedIn, Instagram and X
-- **Gemini** for post copy, **Leonardo AI** for images — one prompt, publishable output
-- Analytics dashboard, JWT auth, account management
-
-`MERN` `Gemini` `Leonardo AI` `Cron workers` `JWT`
 
 ---
 
