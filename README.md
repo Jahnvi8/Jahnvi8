@@ -1,89 +1,120 @@
-<h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
-<br/>
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
-</a>
+# Hi, I'm Jahnvi Gupta 👋
 
-- I’m currently working on **Full Stack Development** with **MERN**
- </br>  and open to work
-- Profeciency in Angular
-- 4yrs+ experience as **Software Developer**
+**Full-stack engineer with a frontend core** — building production web apps end-to-end. Strongest on the frontend, where I turn complex interactions into smooth, intuitive interfaces; comfortable across the stack shaping the APIs and data models that power them.
 
-</br>
-</br>
-<p align="center" >  
-  <img src="https://komarev.com/ghpvc/?username=Jahnvi8" alt="janvi" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Jahnvi8?label=Followers&style=social"> 
-  <img src="https://img.shields.io/github/stars/Jahnvi8?label=Stars" alt="Total Stars">
+4+ years shipping enterprise platforms to clients including **Amazon, JP Morgan, Goldman Sachs and Deloitte**.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**AI / GenAI**
+
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_pipelines-C9A227?style=flat-square)
+![SSE](https://img.shields.io/badge/SSE_streaming-C9A227?style=flat-square)
+
+**Tooling**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### [DocSaathi](https://github.com/Jahnvi8/DocSaathi) — Multilingual AI Document Chat
+
+Ask questions of your documents in **English, हिंदी or Hinglish**, including by voice, and get answers that cite the page they came from.
+
+- **Hybrid retrieval** — vector search + BM25 together, 12 candidates narrowed to top 4
+- **Evaluation harness** — ablation study scoring four retrieval configs on context recall, context precision, faithfulness and answer relevance
+- **Token streaming over SSE** with grounded citations back to source pages
+- Hindi voice input via the Web Speech API
+
+`React` `TypeScript` `Node/Express` `Gemini` `RAG` `SSE`
+
+---
+
+### [SocialSync AI](https://github.com/Jahnvi8/SocialSync) — Social Media Automation
+
+[**Live demo →**](https://social-sync-orpin.vercel.app/)
+
+Manage multiple social accounts from one dashboard, generate posts with AI, and cross-post on a schedule.
+
+- Cron-based background worker publishing to LinkedIn, Instagram and X
+- **Gemini** for post copy, **Leonardo AI** for images — one prompt, publishable output
+- Analytics dashboard, JWT auth, account management
+
+`MERN` `Gemini` `Leonardo AI` `Cron workers` `JWT`
+
+---
+
+### [Portfolio](https://github.com/Jahnvi8/Portfolio) — Personal Site
+
+Case-study write-ups rather than a card grid. Built on semantic CSS custom properties, so light/dark re-points ten tokens and the whole site follows — including a canvas backdrop that re-reads its colour from CSS.
+
+`React` `TypeScript` `Tailwind` `Framer Motion` `Lenis`
+
+---
+
+## 🌱 Currently exploring
+
+**AI-powered applications** — RAG pipelines, LLM integration, retrieval evaluation
+**Backend system design** — with Python
+
+---
+
+## 📊 GitHub
+
+<!-- Cards themed to match the portfolio palette (brass on warm off-black)
+     rather than a stock theme, so they don't clash with everything above. -->
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Jahnvi8&show_icons=true&hide_border=true&bg_color=0C0B0A&title_color=C9A227&icon_color=C9A227&text_color=A39887" alt="Jahnvi's GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnvi8&layout=compact&hide_border=true&bg_color=0C0B0A&title_color=C9A227&text_color=A39887" alt="Most used languages" />
 </p>
 
-<br/>
-<br/>
+---
 
+## 📫 Get in touch
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jahnvi--)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:janvi.2678@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/jahnvi_2678/)
 
-## By the way here are some of my statistics 🚀
-![Jahnvi's github stats](https://github-readme-stats.vercel.app/api?username=Jahnvi8&show_icons=true&theme=radical)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jahnvi8&theme=tokyonight" alt="mystreak"/>
-![Jahnvi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnvi8&theme=tokyonight&layout=compact)
+<!-- Once the portfolio is deployed, add its live URL here and to the
+     Portfolio section above. -->
 
+---
 
-#
-
-<a target="_blank"><img align="left" height="350" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
-<br/>
-
-
-**LANGUAGES AND TOOLS:**  
-
-
-<br/>
-<code><img height="60" width="60" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img height="60" width="60" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
-<!-- <code><img height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-512/saas-457964.png"></code> -->
-<code><img height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code>
-<code><img height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="60" width="60" src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png"></code>
-<br/>
-<br/>
-<code><img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="60" width="60" src="https://seeklogo.com/images/N/node-node-js-logo-81A4CC16D2-seeklogo.com.png"></code>
-<code><img height="60" width="60" src="https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png"></code>
-<code><img height="60" width="60" src="https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png"></code>
-<code><img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<!-- <code><img height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></code> -->
-<br/>
-<br/>
-<code><img height="60" width="60" src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png"></code>
-<code><img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></code>
-<code><img height="60" width="60" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"></code>
-<code><img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="60" width="60" src="https://seeklogo.com/images/N/npm-node-package-manager-logo-DE93649ED1-seeklogo.com.png"></code>
-<!-- <code><img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code> -->
-<br/>
-<br/>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-
-
-<!-- <code><img height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code> -->
-
-<!-- <code><img height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code> -->
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
- 
-
-
-## Contact me : 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jahnvi--
-)
-    <a href="mailto:janvi.2678@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/janvi.2678@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/tavshvi)
-
-------
-Credit: [Jahnvi](https://github.com/Jahnvi8)
-
+<sub>Open to new roles · Available for full-time</sub>
